@@ -1,5 +1,5 @@
 {
-  "version": "1.38",
+  "version": "1.39",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest",
-  "notes": ""
+  "notes": "网络更稳, 修复误报掉线与功率显示"
 }
