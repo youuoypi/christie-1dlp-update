@@ -1,5 +1,5 @@
 {
-  "version": "1.39",
+  "version": "1.40",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest",
-  "notes": "网络更稳, 修复误报掉线与功率显示"
+  "notes": "功率显示改为实际百分比"
 }
