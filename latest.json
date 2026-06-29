@@ -1,5 +1,5 @@
 {
-  "version": "1.41",
+  "version": "1.42",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "登录限速等安全加固"
+  "notes": "修复单台卡片状态显示、广播扫描自动填型号"
 }
