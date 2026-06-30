@@ -1,5 +1,5 @@
 {
-  "version": "1.42",
+  "version": "1.43",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "修复单台卡片状态显示、广播扫描自动填型号"
+  "notes": "广播扫描期间锁定面板，防数据未就绪误操作；型号查询提速；修复重扫竞态"
 }
