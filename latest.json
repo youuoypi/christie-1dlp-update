@@ -1,5 +1,5 @@
 {
-  "version": "1.45",
+  "version": "1.46",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "关键操作加解释性悬停提示（光闸/测试图/光源功率/输入源/网页/广播扫描/分组等），新手更易上手"
+  "notes": "网页开关改为只控自动登录：普通用户始终可打开投影机网页，开关只决定是否自动登录最高权限账号"
 }
