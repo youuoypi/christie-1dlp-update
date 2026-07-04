@@ -1,5 +1,5 @@
 {
-  "version": "1.46",
+  "version": "1.47",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "网页开关改为只控自动登录：普通用户始终可打开投影机网页，开关只决定是否自动登录最高权限账号"
+  "notes": "安全与质量修复：修复自动登录角色提权、投影机型号显示的 XSS、并发操作数据竞争等问题，提升稳定性与安全性"
 }
