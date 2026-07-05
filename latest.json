@@ -1,5 +1,5 @@
 {
-  "version": "1.49",
+  "version": "1.50",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "安全强化版：新增授权事件审计、管理员查看运行日志；修复存储型 XSS、免费版功能后端强制、更新链接域名校验、用户库加载优先级等安全问题"
+  "notes": "代码质量收口版：mDNS 扫描逻辑重构、编辑投影机 IP 时状态迁移修复、版本比较与日志健壮性提升等；功能与 v1.49 一致"
 }
