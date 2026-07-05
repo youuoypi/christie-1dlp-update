@@ -1,5 +1,5 @@
 {
-  "version": "1.48",
+  "version": "1.49",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "内部架构优化：代码模块化重构，提升可维护性；功能与 v1.47 一致"
+  "notes": "安全强化版：新增授权事件审计、管理员查看运行日志；修复存储型 XSS、免费版功能后端强制、更新链接域名校验、用户库加载优先级等安全问题"
 }
