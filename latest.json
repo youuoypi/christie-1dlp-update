@@ -1,5 +1,5 @@
 {
-    "version":  "1.54",
+    "version":  "1.55",
     "url":  "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-    "notes":  "排序新增「分组」：同组投影机分区聚合显示、带分组标题与计数，含「未分组」桶；管理员可拖动侧栏分组名上下调整分组顺序（即分区顺序）"
+    "notes":  "按分组排序现已支持表格与网格视图（此前仅卡片视图生效）：三种视图选「分组」排序均按组分区显示、带分组标题与计数"
 }
