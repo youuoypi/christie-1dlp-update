@@ -1,5 +1,5 @@
 {
-  "version": "1.52",
-  "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "新增侧栏完全收缩：点击左缘把手或 Ctrl+B 把整个侧栏收起，卡片区全屏可视；状态记忆，重启保持"
+    "version":  "1.53",
+    "url":  "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
+    "notes":  "设备发现新增第三策略：CIDR 网段 TCP 扫描——交换机禁多播或投影机在独立管理 VLAN 时，输入网段（如 192.168.10.0/24）单播扫描探 3003/4352 端口，补齐 mDNS 天生扫不到的场景"
 }
