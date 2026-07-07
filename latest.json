@@ -1,5 +1,5 @@
 {
-  "version": "1.51",
+  "version": "1.52",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "新增定时排程：到点自动开机/关机/开关光闸，按星期重复，目标可选全部/分组/指定设备（管理员+付费档）；自适应轮询：离线设备自动退避，减少批量等待；稳定性与安全修复"
+  "notes": "新增侧栏完全收缩：点击左缘把手或 Ctrl+B 把整个侧栏收起，卡片区全屏可视；状态记忆，重启保持"
 }
