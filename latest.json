@@ -1,5 +1,5 @@
 {
-    "version":  "1.57",
+    "version":  "1.58",
     "url":  "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-    "notes":  "跨网段扫描优化：mDNS 发现设备但 TCP 不可达时提示改到同网段重扫；扫描直接从设备公告读取型号，待机设备也能识别型号。修复 Inspire DWU 系列（如 DWU860）待机时被误显示为运行中的问题。稳定性：根治偶发的配置写入失败。"
+    "notes":  "v1.58 更新说明\n\n界面\n- 侧栏「设置」拆分为「监控」「系统」两组，操作时更快定位\n- 日志加载改为骨架屏，读取过程更清晰\n- 过渡动效去回弹，状态反馈更稳\n- 无障碍：状态提示（成功/失败/掉线）支持屏幕阅读器播报\n\n稳定性\n- 批量开关机/光闸/亮度/输入源改为并发限流分批执行，大批量设备下更稳定，单台失败不影响其余\n- 字体离线内嵌，内网无外部字体依赖"
 }
