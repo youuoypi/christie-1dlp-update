@@ -1,5 +1,5 @@
 {
-    "version":  "1.56",
+    "version":  "1.57",
     "url":  "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-    "notes":  "修复：操作日志并发写入冲突导致条目丢失；运行日志窗口按级别着色、长行不再折断"
+    "notes":  "跨网段扫描优化：mDNS 发现设备但 TCP 不可达时提示改到同网段重扫；扫描直接从设备公告读取型号，待机设备也能识别型号。修复 Inspire DWU 系列（如 DWU860）待机时被误显示为运行中的问题。稳定性：根治偶发的配置写入失败。"
 }
