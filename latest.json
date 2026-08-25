@@ -1,5 +1,5 @@
 {
-    "version":  "1.59",
+    "version":  "1.60",
     "url":  "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-    "notes":  "新增批量开机间隔：可在系统设置设定 0-120 秒，批量开机与定时任务均逐台错开发送，避免多台同时点亮造成电流冲击；开机过程可见进度并可随时中止。默认关闭，不影响现有使用习惯。"
+    "notes":  "修复：侧栏「发现新版」提示框超出边界。"
 }
