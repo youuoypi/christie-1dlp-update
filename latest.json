@@ -1,5 +1,5 @@
 {
-    "version":  "1.60",
-    "url":  "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-    "notes":  "修复：侧栏「发现新版」提示框超出边界。"
+  "version": "1.61",
+  "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
+  "notes": "## v1.61\n\n- 扫描新增序列号识别：广播扫描时自动读取投影机序列号，设备 IP 变了可一键更新，无需手动核对\n- 新增软件版本查询，序列号与软件版本在卡片、列表、详情三处都可见\n- 卡片信息重排：IP、分组、备注合并为一行，状态移到状态徽章下方，版面更紧凑\n- 宽屏每行最多可显示 4 台（此前最多 3 台），右上角「每行显示」也补回「4」"
 }
