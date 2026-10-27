@@ -1,5 +1,5 @@
 {
-  "version": "1.62",
+  "version": "1.63",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "- 修复：用户数据文件损坏时可能被当成首次运行、静默重建默认管理员账号\n- 修复：退出登录时若会话文件删除失败，下次启动会自动登回原账号\n- 安全更新：升级 Pillow 与 cryptography 至已修复已知漏洞的版本"
+  "notes": "扫描到设备换了 IP 时自动更新，顶部回执条可一键撤销；撤销后该设备不再被自动改（重扫仍保留此意愿）。修复自动更新/撤销时单台出错连坐其余设备的问题。统一回执条配色 token，修正英文文案。"
 }
