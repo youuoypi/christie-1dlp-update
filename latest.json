@@ -1,5 +1,5 @@
 {
-  "version": "1.63",
+  "version": "1.64",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "扫描到设备换了 IP 时自动更新，顶部回执条可一键撤销；撤销后该设备不再被自动改（重扫仍保留此意愿）。修复自动更新/撤销时单台出错连坐其余设备的问题。统一回执条配色 token，修正英文文案。"
+  "notes": "主界面精修：全局读数移到标题行、告警横幅跟随告警、状态降噪"
 }
