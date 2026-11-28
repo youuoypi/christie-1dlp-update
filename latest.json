@@ -1,5 +1,5 @@
 {
-  "version": "1.65",
+  "version": "1.66",
   "url": "https://github.com/youuoypi/christie-1dlp-update/releases/latest/download/Christie-1DLP-Conductor-Setup.exe",
-  "notes": "Korus 系列：兼容固件 v1.3.0 的控制端口变更（3002→7000）。型号为 Korus 的投影机，3002 被拒绝时自动改用 7000 并记住，无需手动设置。（v1.3.0 实机待验证）"
+  "notes": "界面精修：层级与状态更易读、窄窗口适配、弹窗按钮顺序统一；顶栏「报警」只计设备故障，另列「离线」数，从未连上的设备不再弹红色横幅；离线设备卡片只保留「查询」可点，键盘也无法误发命令；新增 Ctrl+A 全选快捷键；修复离线时无法点「查询」重新检测等问题"
 }
